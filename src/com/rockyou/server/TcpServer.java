@@ -11,7 +11,7 @@ import java.nio.channels.SocketChannel;
 import java.util.Iterator;
 import java.util.Set;
 
-import com.rockyou.command.CommandManager;
+import com.rockyou.command.manager.CommandManager;
 
 public class TcpServer {
 

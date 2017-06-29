@@ -1,4 +1,4 @@
-package com.rockyou.command;
+package com.rockyou.command.info;
 
 import com.rockyou.storage.Key;
 import com.rockyou.storage.Value;

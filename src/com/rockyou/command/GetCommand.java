@@ -1,4 +1,9 @@
 package com.rockyou.command;
 
-public class GetCommand {
+public class GetCommand implements ICommand {
+
+    @Override
+    public void execute() {
+
+    }
 }

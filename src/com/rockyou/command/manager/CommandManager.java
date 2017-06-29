@@ -1,4 +1,4 @@
-package com.rockyou.command;
+package com.rockyou.command.manager;
 
 public class CommandManager {
 
